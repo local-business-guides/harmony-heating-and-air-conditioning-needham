@@ -23,6 +23,9 @@
 - [Top Rated HVAC Contractor Needham](https://local-business-guides.github.io/harmony-heating-and-air-conditioning-needham/top-rated-hvac-contractor-needham/): Top Rated HVAC Contractor Needham homeowners can call for AC repair, helpful answers, and emergency service. Call Harmony Heating & Air Conditioning today.
 - [Licensed HVAC Contractor Needham](https://local-business-guides.github.io/harmony-heating-and-air-conditioning-needham/licensed-hvac-contractor-needham/): Licensed HVAC Contractor Needham homeowners can assess with clear questions before AC repair. Get practical guidance and call Harmony Heating & Air Conditioni
 
+## Newsroom
+- [Needham Company Shares HVAC Contractor Guide in Multiple Formats](https://local-business-guides.github.io/harmony-heating-and-air-conditioning-needham/news/2026-11-11-needham-company-shares-hvac-contractor-guide-in/): Harmony Heating & Air Conditioning has shared an HVAC contractor guide, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-11)
+
 ## Pages
 - [HVAC Contractor in Needham, Massachusetts](https://local-business-guides.github.io/harmony-heating-and-air-conditioning-needham/): Get responsive AC repair and HVAC support from a local team serving Needham, Massachusetts. Call +1339-300-1555.
 - [About Harmony Heating & Air Conditioning](https://local-business-guides.github.io/harmony-heating-and-air-conditioning-needham/about/): About Harmony Heating & Air Conditioning, Needham.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/harmony-heating-and-air-conditioning-needham/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/harmony-heating-and-air-conditioning-needham/news/rss.xml)
 - [Main resource site](https://harmony-needham-hvac.localbusinesses1.chatgpt.site)
